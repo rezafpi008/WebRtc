@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509004800632",
+    "project_id": "webrtc-1258c",
+    "storage_bucket": "webrtc-1258c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509004800632:android:ae3e703d4d8c3e13db838d",
+        "android_client_info": {
+          "package_name": "com.texon.example.webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509004800632-d8h6bbnjfmk1dfsaupav9hqs745dcho8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.texon.example.webrtc",
+            "certificate_hash": "e004e18bd204eb4529e0acd52109c389d451283d"
+          }
+        },
+        {
+          "client_id": "509004800632-4cf6u9dh8v6idlsd4hqkfthufpr97an5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNJoB40HiGl1QbasKn_PKB4uuUBqGs1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509004800632-4cf6u9dh8v6idlsd4hqkfthufpr97an5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
