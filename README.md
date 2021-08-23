@@ -4,6 +4,7 @@ This project uses the WebRtc library to communicate between two users.
 # How to run project
 
 **1. Clone the project in your system**
+
 **2. Enter the Firebase panel and create a new application, in the Package name field, enter the project package name**
 >**(com.texon.example.webrtc)**
 >
